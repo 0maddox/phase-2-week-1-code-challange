@@ -6,7 +6,6 @@ function Transaction() {
       <td>{"your code here..."}</td>
       <td>{"your code here..."}</td>
       <td>{"your code here..."}</td>
-      <td>{"your code here..."}</td>
     </tr>
   );
 }
